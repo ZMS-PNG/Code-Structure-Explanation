@@ -1,2 +1,5 @@
 # Code-Structure-Explanation
 介绍常见的java和python项目的基础结构
+分别列举java常见的前后端组件 与 python常见的前后端组件
+会做一部分简单的示例，包含java与python组件的搭配组合、以及相关的细节和坑点
+在写基础介绍的时候，可能会有出错以及考虑不周全的地方，望见谅。
